@@ -1,0 +1,1 @@
+2026-11-10: 20 rule tests passed. Two local accounts: registration, room creation, joining, start and sync passed. Admin page served without bundled admin credentials. External requests blocked during script loading. README local image links checked. Test saves excluded from ZIP and Git.

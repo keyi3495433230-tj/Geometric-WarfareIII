@@ -1,0 +1,1 @@
+{"name":"geometric-warfare-singleplayer","version":"1.0.0","private":true,"engines":{"node":">=24"},"scripts":{"start":"node start.mjs","test":"node --test network.test.cjs encounters.test.mjs survival.test.mjs"}}

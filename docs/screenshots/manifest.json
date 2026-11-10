@@ -1,0 +1,128 @@
+[
+  {
+    "file": "docs/screenshots/zombie-clear.png",
+    "caption": "区域清空与近战战斗",
+    "sourceFilename": "6fb12ac2f1c71f5e49c2bd81068e007c.png",
+    "sha256": "f161f416bd61eac7c9a9a0d90f1aeb26c8eb8e802608a35706a895c2b1eb8646"
+  },
+  {
+    "file": "docs/screenshots/rocket-combat.png",
+    "caption": "火箭武器战斗",
+    "sourceFilename": "696bdf86f6c895f85d08bb501b346907.png",
+    "sha256": "0415e0b0dc702e2cb3fe29206f0e2702d4365862842f34a411f6d032818dfd4e"
+  },
+  {
+    "file": "docs/screenshots/street-combat.png",
+    "caption": "街区尸潮战斗",
+    "sourceFilename": "828a4adc9ecc6158a57787fcba6c53ae.png",
+    "sha256": "42029bc41d13a1aa81f428081c53d9a7a1d81c112ea40711c68b0500ab4cee99"
+  },
+  {
+    "file": "docs/screenshots/battlefield.png",
+    "caption": "战斗后的街区",
+    "sourceFilename": "2247841931c87f274b7e50d1eec0ca49.png",
+    "sha256": "6e65ccd67fa8349da33b5a299544f36eeead402c9687cae5c46a97da121023cc"
+  },
+  {
+    "file": "docs/screenshots/loading.png",
+    "caption": "启动加载界面",
+    "sourceFilename": "b0948a3fd903e75a75a3d9838dc6e599.png",
+    "sha256": "4bf784673208042881a7bfe586f9d021d13bdcdf030fb00badc331608faa85bf"
+  },
+  {
+    "file": "docs/screenshots/melee.png",
+    "caption": "近战武器",
+    "sourceFilename": "ca63fdb79056933312c1be0fdfb278f5.png",
+    "sha256": "2938b23f9a1141159087f349761a157a02cac7437c8c309bcc9e4a082c37fcf3"
+  },
+  {
+    "file": "docs/screenshots/aiming.png",
+    "caption": "瞄准与爆头反馈",
+    "sourceFilename": "de0929a2e5e04746640443ea985c2d3a.png",
+    "sha256": "a0650333ff868c19347e467d4aaa76a8e8209c0a19637beb4fb644ed353b43b9"
+  },
+  {
+    "file": "docs/screenshots/corpses.png",
+    "caption": "尸体保留效果",
+    "sourceFilename": "f5f5b32ef1b839e4bfbcf6f93ae916b4.png",
+    "sha256": "bfb1f558a1bcb4d7a8bb75ddba247d9ee93c58b5283bbcb688877334fcb5b050"
+  },
+  {
+    "file": "docs/screenshots/explosion.png",
+    "caption": "爆炸与击杀反馈",
+    "sourceFilename": "f5407f6ebc6cf7e571b32b4e8eb17f41.png",
+    "sha256": "669406788908b7907101739e5b258eea65683a73da3972a0ecda5d7accee8d93"
+  },
+  {
+    "file": "docs/screenshots/extraction-station.png",
+    "caption": "通讯站撤离提示",
+    "sourceFilename": "bb8f034c7550fd6253bbb441c55d77c3.png",
+    "sha256": "93c910a992de3d4b591d2cc96f1da600106273f26d304383969523618d3ea1d5"
+  },
+  {
+    "file": "docs/screenshots/profile.png",
+    "caption": "个人资料与生涯战绩",
+    "sourceFilename": "3d1155959c61dff0d21f4d1bfd696819.png",
+    "sha256": "c17b7c6c9cb6b295b9d719f8707d6f53f97d60026b5222dd87821d12ba204384"
+  },
+  {
+    "file": "docs/screenshots/operator.png",
+    "caption": "角色模型展示",
+    "sourceFilename": "06d76f37085d47a5200d30c6b249500b.png",
+    "sha256": "52fdcf3588ec071946b8f0f1d81cf2a663d9777988b914a451fe5144cdf327d0"
+  },
+  {
+    "file": "docs/screenshots/attachments.png",
+    "caption": "枪械配件与模型预览",
+    "sourceFilename": "9f76a9a8501c4668ae3550ccc0c51c07.png",
+    "sha256": "7fb611991303379067b3cbc8c57ed886e924cc72a51061a2acfd096d5c3d48d2"
+  },
+  {
+    "file": "docs/screenshots/lighting.png",
+    "caption": "画质与光照调整",
+    "sourceFilename": "52d47746ea0045ceb6f84dc0d7b65b73.png",
+    "sha256": "bee5c5c8d4911e9bb068709d4e3e0203b5bdfdb14ad3c4e59db2694bf28d7aa1"
+  },
+  {
+    "file": "docs/screenshots/camo.png",
+    "caption": "迷彩选择与武器等级",
+    "sourceFilename": "75cd0d2261a6625fbe2a92d9a3b8890d.png",
+    "sha256": "f41dbfa5cf934c3485ff2ef5cf74e27f2363d0208cd3d9afab89fe3bdc33d6f6"
+  },
+  {
+    "file": "docs/screenshots/custom-camo.png",
+    "caption": "自定义图片迷彩",
+    "sourceFilename": "2989a5cc046f4122a8d1e67152801877.png",
+    "sha256": "33a418acd96327ffb55c3a7451020e6e6dfbf5f035f8e3a3c0fdf3edbcdcfe6e"
+  },
+  {
+    "file": "docs/screenshots/extraction-horde.png",
+    "caption": "撤离限时尸潮",
+    "sourceFilename": "4576c6683ec58c13836fc9e31f10c89c.png",
+    "sha256": "093ddfc706795357f9d1beebb99d6bcce88737755835831a56cb7b47834ce88a"
+  },
+  {
+    "file": "docs/screenshots/practice.png",
+    "caption": "练习修改器与动态迷彩",
+    "sourceFilename": "20696ef2812b5b9f15a9ef2d7dc8f1e7.png",
+    "sha256": "93b4203034626ead263de69469a30e5194f13a134a6979a12a263dc53960e212"
+  },
+  {
+    "file": "docs/screenshots/main-menu.png",
+    "caption": "主菜单",
+    "sourceFilename": "92353a22743be43d0068d0e9649f52ac.png",
+    "sha256": "e1c0b2d68e9f1e0b862bc316b14bcb0d3dbb4734174ca9d42763178394fa4b72"
+  },
+  {
+    "file": "docs/screenshots/crosshair.png",
+    "caption": "暂停菜单与准星设置",
+    "sourceFilename": "ae0cb8fb5e3a8e2322c4763359cc2012.png",
+    "sha256": "84064feff8dd42ca1605923c76623c62b1bdff114410fde918780dbadee2ab05"
+  },
+  {
+    "file": "docs/screenshots/chopper.png",
+    "caption": "直升机射手视角",
+    "sourceFilename": "aed202e9925bf1040de8325128000ed6.png",
+    "sha256": "3310c9de854c80d0cfd9adbc15c5b4954d77e67aaa23d795de7ba0c1153dbc87"
+  }
+]

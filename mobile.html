@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover"><title>几何战争3</title>
+<style>
+html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#111;overscroll-behavior:none}
+iframe{position:fixed;inset:0;width:100vw;height:100dvh;border:0;display:block}
+@media(orientation:portrait){iframe{width:100dvh;height:100vw;transform-origin:top left;transform:translateX(100vw) rotate(90deg)}}
+</style></head><body><iframe title="几何战争" allow="fullscreen; autoplay; microphone" allowfullscreen></iframe>
+<script>
+const game=new URL('./',location.href);game.search=location.search;game.hash=location.hash;
+document.querySelector('iframe').src=game.href;
+history.replaceState(null,'',game.href);
+window.lockGameLandscape=async()=>{
+  try{if(!document.fullscreenElement)await document.documentElement.requestFullscreen?.({navigationUI:'hide'});}catch{}
+  try{await screen.orientation?.lock?.('landscape-primary');}catch{}
+};
+</script></body></html>

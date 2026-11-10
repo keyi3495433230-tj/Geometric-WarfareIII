@@ -1,0 +1,88 @@
+﻿file,source,license_status,reference,sha256
+models/AssaultRifle2_1.mtl,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,31b5b73b699b77a23bf4f686c3c1fe1b5596b6dd419e8e229a9c583b2d6dda22
+models/AssaultRifle2_1.obj,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,bddb03e49ea71517865028b1f06cdc8b1c6ffbc854b15369db66599f973a4d2f
+models/AssaultRifle2_2.mtl,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,eaded1ea765a58c84e6b1402b474cf9b373472b59b82d2b5cad7e3f7f3741797
+models/AssaultRifle2_2.obj,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,ea405c7c3de98e255bc7c8ca3876ff5e2f2c8bd67e1a0984e185354bbab6c7f2
+models/AssaultRifle_1.mtl,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,a4a2037eb1ca1e3047d4d510c50d36d18a9e975f24392009e2ef83019644ebb1
+models/AssaultRifle_1.obj,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,2a755393626052558165d180b04b0d39a1e3c8a3b608cfe6bf2aa832ad4c656a
+models/AssaultRifle_2.mtl,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,b9e0429254528b93ce6134e513fbb114a8ee40872778f05e91ca1fccb320b1c2
+models/AssaultRifle_2.obj,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,095ab814defe0855ae23c7111c9fdac260a49dc093272077c39863fdc868251d
+models/AssaultRifle_3.mtl,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,39521470c75a30bda25c0879b13b1bbed86acd3a4a1f2ca99698f6bf9af730cf
+models/AssaultRifle_3.obj,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,4a90e8ed5c0efc0a65f403fa9943ed55707e12a044fca6e67a301583278c0a38
+models/attachments/hound.glb,用户提供模型,待确认原作者和再分发授权,THIRD_PARTY_NOTICES.md#人物僵尸等用户提供模型,51cb995fd9f936fc4f6f8ba1366157ef2b7a1c3df05c597776b006325cf81050
+models/attachments/knife-base.glb,Quaternius / Knife,CC0-1.0,https://poly.pizza/m/0g8M6yYtE4,d3f6af0b5b7192cbaf785cabce58df68d85166470ce9616f87f166980f064068
+models/attachments/knife-source.txt,Quaternius / Knife,CC0-1.0,https://poly.pizza/m/0g8M6yYtE4,cbbda54a76080dd1f30236a55ba97faff5f24249d5f561dfbe524341e98ef928
+models/attachments/License.txt,Kenney / Blaster Kit,CC0-1.0,https://kenney.nl/assets/blaster-kit,bece5f4d99cca9dcf86931221a69909862ff6cc95e1735462ee678516a1063e2
+models/attachments/raygun.glb,用户提供模型,待确认原作者和再分发授权,THIRD_PARTY_NOTICES.md#人物僵尸等用户提供模型,7a6172dbdc3e3cbc45ed9f8f3304bc93460dad2d1176b93d2710fb9ffe545ce6
+models/attachments/scope-large-a.glb,Kenney / Blaster Kit,CC0-1.0,https://kenney.nl/assets/blaster-kit,bf83b1cff0bc56b9a11f2956c8c8eb23ef66624dd357e8f3eeb63d0481323928
+models/attachments/scope-small.glb,Kenney / Blaster Kit,CC0-1.0,https://kenney.nl/assets/blaster-kit,e7fed68bd5477b214e5af2c29aca55481bffa9b0fd9db5be4cfb1c2bf3a52a65
+models/attachments/silencer-larger.glb,Kenney / Blaster Kit,CC0-1.0,https://kenney.nl/assets/blaster-kit,21532245b41bd9e5fa1b3768d1880a80b948b5dc2755b8a63d4216931d8a1689
+models/attachments/silencer-small.glb,Kenney / Blaster Kit,CC0-1.0,https://kenney.nl/assets/blaster-kit,ebfc350c024eda0e8a26f79bccea4d7a12fba792d008496739f5a693dbbf15db
+models/attachments/sources.txt,Kenney / Blaster Kit,CC0-1.0,https://kenney.nl/assets/blaster-kit,180386dc778576816c612615f6bf54f9f392377f6ad0e0c374891c66790d22f5
+models/attachments/Textures/colormap.png,Kenney / Blaster Kit,CC0-1.0,https://kenney.nl/assets/blaster-kit,4d0867c3c3c8c539106f91fbc0987d0e1b7d2811362d1daed593169c7d3b0fdc
+models/blaster-a.glb,Kenney / Blaster Kit,CC0-1.0,https://kenney.nl/assets/blaster-kit,d6d6fe0ec5baf21d7717449220799d45b95d2d663ace7b22612b255dc1a8b308
+models/blaster-kit.png,Kenney / Blaster Kit,CC0-1.0,https://kenney.nl/assets/blaster-kit,4d0867c3c3c8c539106f91fbc0987d0e1b7d2811362d1daed593169c7d3b0fdc
+models/blaster-n.glb,Kenney / Blaster Kit,CC0-1.0,https://kenney.nl/assets/blaster-kit,e3faa048f8a90fe57fe838a7f86609bd91815358a1ac3a8dd26432f8010590f6
+models/blaster-r.glb,Kenney / Blaster Kit,CC0-1.0,https://kenney.nl/assets/blaster-kit,ab0b5f51ecff405238727626d558414750a9946d5e255cd1dc8bf81eebe1f1e2
+models/boot-logo.png,用户提供 Logo,待确认,THIRD_PARTY_NOTICES.md,0522509a70296f05d3e37d88dc3210c40e4d1076ff3cd9eb7aea14701fbfad20
+models/box-large.glb,Kenney / Survival Kit,CC0-1.0,https://kenney.nl/assets/survival-kit,69b4052f32b7b27e5d2ee27041b091a07d4a2dd4d877168a701607a97609f0f6
+models/Bullpup_1.mtl,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,a4999ae6f9e82abaccc1fed4e79c0037cc43571c6b49b0c2af159c2482c8be23
+models/Bullpup_1.obj,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,6ac189d35c1e7372f6350d8d16d6d1c2fedc3b323142f1aa8420a147f2b4d8cf
+models/Bullpup_2.mtl,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,e5d900b99a2c556d58e146a4632133e1092fb613c5198d723beaee87b66e08a3
+models/Bullpup_2.obj,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,eaa33163082b19025b12514126199b1f9f86cbb64f45b3bf13bee7291b7f0afd
+models/Bullpup_3.mtl,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,fea794839b81fffe3b371fc716abcbd204230de03fbf4d6a9b1380c5952d71dc
+models/Bullpup_3.obj,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,1df1687fc81feab009983e21eb9248a8041eddf3a31aba1be55dfa5c64eb74be
+models/first-person-arms.glb,用户提供模型,待确认原作者和再分发授权,THIRD_PARTY_NOTICES.md#人物僵尸等用户提供模型,a64c9465feed57a16d47b91f4e6e7072fd43eb5da8e301bfc5f4f5d21452b094
+models/game-logo.png,用户提供 Logo,待确认,THIRD_PARTY_NOTICES.md,00b16b04bab0ac6cc65f5d4ef892269dcecce0a8f80da9dc367c65f417928c93
+models/GLTFLoader.js,Three.js contributors,MIT,https://github.com/mrdoob/three.js/tree/r128,5c15967ba830918a9caea6338712c994c354bccd4edc4569bde411c3ec06a3e6
+models/Kenney-blaster-kit-License.txt,Kenney / Blaster Kit,CC0-1.0,https://kenney.nl/assets/blaster-kit,af9efa5f3f751ba43fe519bd52ebff529c47b310a0673259efb1d097eb8e9031
+models/Kenney-survival-kit-License.txt,Kenney / Survival Kit,CC0-1.0,https://kenney.nl/assets/survival-kit,2169d19bee8dbd1117cdcc099e2053123897d9cbff26cbed27113b8dac9714fb
+models/maps/lanes/detail-dumpster-closed.glb,Kenney / Retro Urban Kit,CC0-1.0,https://kenney.nl/assets/retro-urban-kit,c2b54e446c95fa413929793f3d89cb0176077fa29e4a449dc03cada558bd07d9
+models/maps/lanes/License.txt,Kenney / Retro Urban Kit,CC0-1.0,https://kenney.nl/assets/retro-urban-kit,83d0de4f34000323da12cf54bc542dbc24ba48cfad101510dccddaa69483ebeb
+models/maps/lanes/Textures/concrete.png,Kenney / Retro Urban Kit,CC0-1.0,https://kenney.nl/assets/retro-urban-kit,3431cb462e8f8c120d29c23fa06e730ae488fceeb3e8d86945724675ff2be294
+models/maps/lanes/Textures/metal.png,Kenney / Retro Urban Kit,CC0-1.0,https://kenney.nl/assets/retro-urban-kit,3893724d52a5788341345e16319fb8f5f7182d588b5d5b2babf577176ca3d701
+models/maps/lanes/Textures/metal_wall.png,Kenney / Retro Urban Kit,CC0-1.0,https://kenney.nl/assets/retro-urban-kit,2700c58f6063520dd447ea6addc9477898bf4e0924b2ab6eb63b4340f36526c5
+models/maps/lanes/Textures/roof.png,Kenney / Retro Urban Kit,CC0-1.0,https://kenney.nl/assets/retro-urban-kit,50a09bac9a57a1732af6b6e4de0192efaba3627a997e0b1dc5fc1c1c6369acd6
+models/maps/lanes/Textures/wall.png,Kenney / Retro Urban Kit,CC0-1.0,https://kenney.nl/assets/retro-urban-kit,18dc996f37c4ac4510d09e6cb505c1decbd249d15108d0bfe6efdbd489425690
+models/maps/lanes/Textures/wall_garage.png,Kenney / Retro Urban Kit,CC0-1.0,https://kenney.nl/assets/retro-urban-kit,ffb88c17f3497e8d3991cef4ac081743fafe91236cfd96d84ca0ccc2980dce56
+models/maps/lanes/Textures/wall_lines.png,Kenney / Retro Urban Kit,CC0-1.0,https://kenney.nl/assets/retro-urban-kit,322d198d1ff4ce006c7029eee416ba96a981ba080756f829110ac8c34faa00f2
+models/maps/lanes/Textures/windows.png,Kenney / Retro Urban Kit,CC0-1.0,https://kenney.nl/assets/retro-urban-kit,9a99b16d1caa9b08dfd72eb74ac624b546df89ed6fcfefabe2e4a0933f632a42
+models/maps/lanes/wall-a-flat-garage.glb,Kenney / Retro Urban Kit,CC0-1.0,https://kenney.nl/assets/retro-urban-kit,0cbb275ad1b00e9689bdca03a5448ae36ecb93a6d570fb1240af8a5f3a72a7ba
+models/maps/lanes/wall-a-flat-window.glb,Kenney / Retro Urban Kit,CC0-1.0,https://kenney.nl/assets/retro-urban-kit,bb171dffa5015747641e3131bf171dbf429042ee3b47408c409a7e4acc17cf66
+models/maps/sources.txt,项目来源记录,记录文件；分别引用各素材许可,models/maps/sources.txt,ea1814e567543c5b0044fede89dd601714463d2e0d9948fecfaf65ed8e637d99
+models/maps/works/building-a.glb,Kenney / City Kit Industrial,CC0-1.0,https://kenney.nl/assets/city-kit-industrial,0e6ef8eb1e1bdbb9d06b5496b5daf3066e00eaf74b3fcd61b74072116a1c86cf
+models/maps/works/building-d.glb,Kenney / City Kit Industrial,CC0-1.0,https://kenney.nl/assets/city-kit-industrial,72b9e9e29986df0778ffa7c56e2f92fcfadfaa0f89bf167603877db4f38a789e
+models/maps/works/building-j.glb,Kenney / City Kit Industrial,CC0-1.0,https://kenney.nl/assets/city-kit-industrial,58f135e706662a201bc0c660c2c680ec6bf2997233dd61fe03c28d4965b45bc9
+models/maps/works/License.txt,Kenney / City Kit Industrial,CC0-1.0,https://kenney.nl/assets/city-kit-industrial,60a8c5c31191256ec9779dc18745dea6d69c46f4b29703459ce064c1765a59ea
+models/maps/works/Textures/colormap.png,Kenney / City Kit Industrial,CC0-1.0,https://kenney.nl/assets/city-kit-industrial,950f4f891ebd05a2affac810e6eeb0fea1511bc39039b65a3cbf2e17d17bc6a2
+models/menu-bomb.jpg,旧项目场景截图,依截图中资产及图片权利而定,THIRD_PARTY_NOTICES.md,718543fc0097f8c0f72e4772f99388344be8b0b8d76ffcbb6b56cc4c2569cea1
+models/menu-classic.jpg,旧项目场景截图,依截图中资产及图片权利而定,THIRD_PARTY_NOTICES.md,f568380ef698df3fac3d60aa43d42493fc5118f1c76b0b81ee3a10223b0d3f3f
+models/menu-duel.jpg,旧项目场景截图,依截图中资产及图片权利而定,THIRD_PARTY_NOTICES.md,83743f1545cf53e5cfae05abe2317fbabb1077c6e304df4c636c04402a52fbc6
+models/menu-endless.jpg,旧项目场景截图,依截图中资产及图片权利而定,THIRD_PARTY_NOTICES.md,85117d500a3a3598d981e20ee4288982a5d4910aebaffcbfc0b0f0178b333c74
+models/menu-free.jpg,旧项目场景截图,依截图中资产及图片权利而定,THIRD_PARTY_NOTICES.md,4d47c53a9f81068e8a17a75e0ccc8de258f6eedcb298c10b4ebb3835de466f7b
+models/menu-horde.jpg,旧项目场景截图,依截图中资产及图片权利而定,THIRD_PARTY_NOTICES.md,716a27cae912643de073d10e99bb9bbade5a3f4891e4a80cf8f4b0d30328e052
+models/menu-reference.png,旧项目参考图片,来源及许可待确认,THIRD_PARTY_NOTICES.md,3d5e05df13c84bbea3c418cf4109bda7ee0900324554e870a98b8d4fc2abeedf
+models/menu-tdm.jpg,旧项目场景截图,依截图中资产及图片权利而定,THIRD_PARTY_NOTICES.md,df85d175ed2bf75390a93b6641a379353c81268af1a742793829d4245c1cefe5
+models/menu-yard.jpg,旧项目场景截图,依截图中资产及图片权利而定,THIRD_PARTY_NOTICES.md,9387cb0ed16d1a140153688cffa4a6c08e66b696110c9e45d9382b0fe915617d
+models/operator-character.glb,用户提供模型,待确认原作者和再分发授权,THIRD_PARTY_NOTICES.md#人物僵尸等用户提供模型,0b540093bc01ba50d6e41e6a57fc5d2f5b061692ed97c62040dd2aec26f6c3e4
+models/pistol-variants-source.txt,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,efc5c2308cfe61dea6ff50221720127363c6f76ae946b5e0867821a87a919e2a
+models/Pistol_1.mtl,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,ad9563d1719544e1eb47286e609c803ee46feb6def24a33ed92ba57c3eaa65c2
+models/Pistol_1.obj,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,2e22bcc00873de5dda983e38ccaced8681a4af36c677e7ffce8838f8022185f8
+models/Pistol_2.mtl,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,9ffd9bb32ca0e44b758b13df29fb5a0d3305da15cab5a16d421cbf6b5b0912c6
+models/Pistol_2.obj,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,ab5d4150082cca3085a07010525c77fafa3d12fd123b52878aa73e0fb9583e49
+models/Pistol_3.mtl,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,235b8ff7f9da8f63231e89613aa33ac79dafa155f1e4cb921e2f854a364c9825
+models/Pistol_3.obj,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,f31f890bb6e52f6a57c4f3bf049ae0b9eecfd40720cf3ac8ee8b7b638597fc6f
+models/Pistol_4.mtl,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,31d361d9203b2e1985bd4168dac25ab1866b3d252d98dbc6146567c12b16357c
+models/Pistol_4.obj,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,d3da98ad51a63a8b6f8b698e4091fd7341f844d2cbdf70ce02578af5ef50440b
+models/Pistol_5.mtl,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,3f8cf685578a2b87699884673a609992a74fdc93fa25987204439c6ecd7ce7b9
+models/Pistol_5.obj,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,ad6d2f852807f7f39a36bd73a09e51ba7dc7e0dd2a5f90c04200fd199a5da07f
+models/PointerLockControls.js,Three.js contributors,MIT,https://github.com/mrdoob/three.js/tree/r128,5c273a4e2727af6f8411cb5ad60fb27f69f7dad5a9ae98cf476d029d9c38dc75
+models/Quaternius-License.txt,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,83d8959f9fc56353ed571fbe2dc52e4bcd64508e2399501cd45ac2ce3df0bf8c
+models/Shotgun_1.mtl,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,5495c9abbff06b9a6da8fbaf8f7eabdb20702487105ba41d596fc26dcb3cfc3d
+models/Shotgun_1.obj,Quaternius,CC0-1.0,https://quaternius.com/packs/ultimategun.html,5a4bddb00e00dd101bfcba0466ee4b8b46b95076cb5da1f7fecdb3065d499cc2
+models/survival-kit.png,Kenney / Survival Kit,CC0-1.0,https://kenney.nl/assets/survival-kit,6ca023be9f12e8c2358fcf94320c8a894b4c05a3dd0bad1f5c268312053caca1
+models/Three-License.txt,Three.js contributors,MIT,https://github.com/mrdoob/three.js/tree/r128,7dddf7c5b8fd10ee654db8857d75d104b5557889aa5a91fc4ca545ea7c07062f
+models/three.min.js,Three.js contributors,MIT,https://github.com/mrdoob/three.js/tree/r128,9274bbcec8d96168626c732b5d31c775aa8cfb7eaa0599bec0c175908a2c1ce2
+models/tool-axe.glb,Kenney / Survival Kit,CC0-1.0,https://kenney.nl/assets/survival-kit,de5c6cc51cdb5bcfad8bd7128b7ff0e37a34e6f4f8deddec82bb8634c25cc20d
+models/workbench.glb,Kenney / Survival Kit,CC0-1.0,https://kenney.nl/assets/survival-kit,bf72d2d535fa29127e5078a6c4c2023a74fa5cd7d02d91ad550e897e088e1dc8
+models/zombie.glb,用户提供模型,待确认原作者和再分发授权,THIRD_PARTY_NOTICES.md#人物僵尸等用户提供模型,47b97e74e3c8d8bc566439f01761e347b7a2073e1911cad6da5c4ae58f30022d
